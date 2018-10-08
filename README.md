@@ -3,6 +3,8 @@ A collection of short snippets to help others in programming languages that we k
 
 A joint collaboration of Mallika Dey and Sundaresh Sankaran.
 
+*Note : Please use the Issues tab to post any questions. Thanks!*
+
 # Contents:
 
 *SAS Folder*:
